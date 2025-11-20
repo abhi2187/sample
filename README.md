@@ -1,1 +1,1 @@
-# sample
+✔ “Commit directly to newbranch”
